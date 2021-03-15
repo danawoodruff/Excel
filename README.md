@@ -6,19 +6,19 @@ Basic Excel projects, e.g. pivots, a multi-sheet real estate pro forma workbook,
 <p>
 The project **********
 
-<p align="center"><img width="940" height="auto" src="Images/SUMIFS.PNG"></p> 
+<p align="center"><img width="840" height="auto" src="Images/SUMIFS.PNG"></p> 
 
 
 <p align="center"><img width="661" height="auto" src="Images/Pivot.PNG">
   
   
-<p align="center"><img width="940" height="auto" src="Images/DatesPivot.PNG">
+<p align="center"><img width="840" height="auto" src="Images/DatesPivot.PNG">
   
 
 <p align="center"><img width="303" height="auto" src="Images/PivotStats.PNG">
   
   
-<p align="center"><img width="940" height="auto" src="Images/RE.PNG">
+<p align="center"><img width="840" height="auto" src="Images/RE.PNG">
   
 
 
