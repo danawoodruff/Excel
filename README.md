@@ -6,7 +6,7 @@ Basic Excel projects, e.g. pivots, a multi-sheet real estate pro forma workbook,
 <p>
 The project **********
 
-The  [EV Dataset](assets/data/EVs.csv)<a href="https://danawoodruff.github.io/d3-challenge/">View GitHub-Page</a><br>
+<p align="center"><img width="100%" height="40px" src="Images/SUMIFS.PNG"></p> 
 
 <p align="center"><img width="387" height="auto" src="Images/mouseover.PNG">
 
