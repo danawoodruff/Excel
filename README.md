@@ -35,4 +35,5 @@ To download the RE Pro Forma file: [RE ProForma](MultiSheet.xlsx)<br>
 To download the SUMIFS-SUMIF-VLOOKUP file: [SUMIFS-SUMIF-VLOOKUP](SUMIF-SUMIFS-VLOOKUP.xlsx)<br>
 
 </body>
+<p align="center"><img width="100%" height="50" src="Images/background.jpg"></p>
 </html>
