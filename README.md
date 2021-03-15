@@ -23,7 +23,7 @@ The second is a workbook with a relatively large dataset on one sheet. The skill
 <p align="center"><img width="640" height="auto" src="Images/Pivot.PNG"></p>
   
 <p style="float: center;">
-    <img width="200" height="auto" hspace="30" src="Images/PivotStats.PNG"><img width="429" height="auto" src="Images/DatesPivot.PNG">
+    <img width="250" height="auto" hspace="30" src="Images/PivotStats.PNG"><img width="536" height="auto" src="Images/DatesPivot.PNG">
 </p>
 
     
