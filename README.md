@@ -33,7 +33,7 @@ The third workbook is a simple multi-sheet Pro Forma. The user plugs in certain 
  
 To view the PivotTable sheet: [PivotTable](Pivots.xlsx)<br>
 To view the RE Pro Forma: [RE ProForma](MultiSheet.xlsx)<br>
-To view the SUMIFS-SUMIF-VLOOKUP: [SUMIFS-SUMIF-VLOOKUP](SUMIF-SUMIFS-VLOOKUP)<br>
+To view the SUMIFS-SUMIF-VLOOKUP: [SUMIFS-SUMIF-VLOOKUP](SUMIF-SUMIFS-VLOOKUP.xlsx)<br>
 
 </body>
 </html>
