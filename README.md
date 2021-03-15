@@ -1,5 +1,5 @@
 <html>
-<p align="center"><img width="100%" height="40" src="Images/background.jpg"></p>            
+<p align="center"><img width="100%" height="40" src="Images/background.PNG"></p>            
 <body>
 <p>
 The repository contains several workbooks that demonstrate basic Excel skills.
@@ -31,9 +31,9 @@ The second is a workbook with a relatively large dataset on one sheet. The skill
 The third workbook is a simple multi-sheet Pro Forma. The user plugs in certain data points, in yellow cells, that cascade through the workbook's formulas.
 <p align="center"><img width="640" height="auto" src="Images/RE.PNG">
  
-To view the PivotTable sheet: [PivotTable](Pivots.xlsx)<br>
-To view the RE Pro Forma: [RE ProForma](MultiSheet.xlsx)<br>
-To view the SUMIFS-SUMIF-VLOOKUP: [SUMIFS-SUMIF-VLOOKUP](SUMIF-SUMIFS-VLOOKUP.xlsx)<br>
+To download the PivotTable file: [PivotTable](Pivots.xlsx)<br>
+To download the RE Pro Forma file: [RE ProForma](MultiSheet.xlsx)<br>
+To download the SUMIFS-SUMIF-VLOOKUP file: [SUMIFS-SUMIF-VLOOKUP](SUMIF-SUMIFS-VLOOKUP.xlsx)<br>
 
 </body>
 </html>
