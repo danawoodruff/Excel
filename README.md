@@ -15,7 +15,7 @@ The project **********
 <p align="center"><img width="940" height="auto" src="Images/DatesPivot.PNG">
   
 
-<p align="center"><img width="940" height="auto" src="Images/PivotStats.PNG">
+<p align="center"><img width="303" height="auto" src="Images/PivotStats.PNG">
   
   
 <p align="center"><img width="940" height="auto" src="Images/RE.PNG">
