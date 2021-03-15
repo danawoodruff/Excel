@@ -1,5 +1,5 @@
 <html>
-<p align="center"><img width="100%" height="40" src="Images/background.PNG"></p>            
+<p align="center"><img width="100%" height="40" src="Images/background.jpg"></p>            
 <body>
 <p>
 The repository contains several workbooks that demonstrate basic Excel skills.
