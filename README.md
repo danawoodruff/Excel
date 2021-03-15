@@ -23,7 +23,9 @@ The second is a workbook with a relatively large dataset on one sheet. The skill
 <p align="center"><img width="640" height="auto" src="Images/Pivot.PNG"></p>
   
   
-<p align="left"><img width="303" height="auto" src="Images/PivotStats.PNG">         <align="right"><img width="640" height="auto" src="Images/DatesPivot.PNG"></p>
+<p style="text-align:left;"><img width="303" height="auto" src="Images/PivotStats.PNG">
+  <span style="float:right;"><img width="640" height="auto" src="Images/DatesPivot.PNG"></span>
+</p>
     
 The third workbook is a simple multi-sheet Pro Forma. The user plugs in certain data points, in yellow cells, that cascade through the workbook's formulas.
 <p align="center"><img width="640" height="auto" src="Images/RE.PNG"></p>
