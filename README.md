@@ -12,7 +12,8 @@ The first is a worksheet with two datasets and a lookup table. The skills demons
 * Three datasets are pulled into one dashboard
 * SUMIFS is used to sum outstanding receivables from a list of accounting data.
 * SUMIFS used to filter for outstanding receivables by client that are more than 30 days old.
-* A date is hard coded rather than utilizing '=NOW() to retrieve today's date
+* A date is hard coded rather than utilizing '=NOW() to retrieve today's date.
+
 ![image](https://user-images.githubusercontent.com/35933787/111214387-e39ddc80-859f-11eb-89c2-e180cb1d7ef0.png)
   
 
