@@ -1,7 +1,7 @@
 # Under Construction
 Basic Excel projects, e.g. pivots, a multi-sheet real estate pro forma workbook, and a SUMIFS-SUMIF-VLOOKUP Revenue sheet.
 <html>
-<p align="center"><img width="100%" height="40px" src="Images/background.jpg"></p>            
+<p align="center"><img width="100%" height="auto" src="Images/background.jpg"></p>            
 <body>
 <p>
 The project **********
@@ -12,7 +12,7 @@ The project **********
 
 
 
-To view the PivotTable sheet: [PivotTable](assets/js/app.js)<br>
+To view the PivotTable sheet: [PivotTable](Excel Basic Pivots.xlsx)<br>
 To view the RE Pro Forma: [RE ProForma](index.html)<br>
 To view the SUMIFS-SUMIF-VLOOKUP: [SUMIFS-SUMIF-VLOOKUP](assets/css/style.css)<br>
 
