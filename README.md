@@ -29,6 +29,8 @@ The second is a workbook with a relatively large dataset on one sheet. The skill
     
 * The third workbook is a simple multi-sheet Pro Forma. The user plugs in certain data points, in yellow cells, that cascade through the workbook's formulas.
 <p align="center"><img width="640" height="auto" src="Images/RE.PNG"></p>
+
+* The fourth is a real estate deal sheet. The user (the buyer) can compare different loan options. 
  
 To download the PivotTable file: [PivotTable](Pivots.xlsx)<br>
 To download the RE Pro Forma file: [RE ProForma](MultiSheet.xlsx)<br>
